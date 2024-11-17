@@ -142,7 +142,7 @@ function CustomJs() {
 
 	$(window).on('load resize', function() {
 		if($(window).innerWidth() < 420) {
-			$('.navbar-brand logo.svg').attr('src', 'assets/images/icon.svg');
+			$('.navbar-brand logo.svg').attr('src', 'assets/images/animation.gif');
 		} else {
 			$('.navbar-brand icon-light.svg').attr('src', 'assets/images/logo.svg');
 		}

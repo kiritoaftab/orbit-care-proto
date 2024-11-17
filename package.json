@@ -1,7 +1,7 @@
 {
     "name": "mooli",
     "version": "1.0.0",
-    "description": "Mooli Bootstrap Admin Dashboard and ui kit",
+    "description": "Orbit Care a Concept Prototype",
     "main": "Gruntfile.js",
     "directories": {
         "doc": "doc"
